@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <!-- <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}"> -->
+  </head>
+  <body>
+    <header>
+      <h1>{{ site.title }}</h1>
+      <nav>
+        <a href="{{ site.baseurl }}/">Accueil</a>
+        <a href="{{ site.baseurl }}/blog">Blog</a>
+      </nav>
+    </header>
+
+    <div class="content">
+      {{ content }}
+    </div>
+
+    <footer>
+      <p>Site créé avec Jekyll et le thème Minima</p>
+    </footer>
+  </body>
+</html>
+
