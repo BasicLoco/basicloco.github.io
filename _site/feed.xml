@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="fr" /><updated>2024-11-07T15:43:20+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ceci n’est pas un site</title><subtitle>Ceci n&apos;est pas une awesome description de ce qui n&apos;est pas un site</subtitle><entry><title type="html">Un article de test</title><link href="http://localhost:4000/blog/test/2024/11/07/premierArticleTest.html" rel="alternate" type="text/html" title="Un article de test" /><published>2024-11-07T11:47:00+01:00</published><updated>2024-11-07T11:47:00+01:00</updated><id>http://localhost:4000/blog/test/2024/11/07/premierArticleTest</id><content type="html" xml:base="http://localhost:4000/blog/test/2024/11/07/premierArticleTest.html"><![CDATA[<!-- Publié le : -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="fr" /><updated>2024-11-07T17:33:03+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ceci n’est pas un site</title><subtitle>Ceci n&apos;est pas une awesome description de ce qui n&apos;est pas un site</subtitle><entry><title type="html">Un article de test</title><link href="http://localhost:4000/blog/test/2024/11/07/premierArticleTest.html" rel="alternate" type="text/html" title="Un article de test" /><published>2024-11-07T11:47:00+01:00</published><updated>2024-11-07T11:47:00+01:00</updated><id>http://localhost:4000/blog/test/2024/11/07/premierArticleTest</id><content type="html" xml:base="http://localhost:4000/blog/test/2024/11/07/premierArticleTest.html"><![CDATA[<!-- Publié le : -->
 <!--  -->
 <!--  -->
 <!--  -->
@@ -58,4 +58,46 @@ Encore !</li>
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
 <span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="blog" /><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="blog" /><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">L’emploi du pronom indéfini</title><link href="http://localhost:4000/blog/2024/11/07/toutlemondechacunpersonne.html" rel="alternate" type="text/html" title="L’emploi du pronom indéfini" /><published>2024-11-07T00:00:00+01:00</published><updated>2024-11-07T00:00:00+01:00</updated><id>http://localhost:4000/blog/2024/11/07/toutlemondechacunpersonne</id><content type="html" xml:base="http://localhost:4000/blog/2024/11/07/toutlemondechacunpersonne.html"><![CDATA[<!-- # L'emploi du pronom indéfini... -->
+
+<p>Il était une fois quatre individus que l’on appelait</p>
+
+<p><strong>Tout le monde</strong> , <strong>Quelqu’un</strong> , <strong>Chacun</strong> et <strong>Personne</strong>.</p>
+
+<p>Il y avait un important travail à faire,</p>
+
+<p>Et on a demandé à <strong>Tout le monde</strong> de le faire.</p>
+
+<p><strong>Tout le monde</strong> était persuadé que <strong>Quelqu’un</strong> le ferait.</p>
+
+<p><strong>Chacun</strong> aurait pu l’avoir fait, mais en réalité <strong>Personne</strong> ne le fit.</p>
+
+<p><strong>Quelqu’un</strong> se fâcha car c’était le travail de <strong>Tout le monde</strong> !</p>
+
+<p><strong>Tout le monde</strong> pensa que <strong>Chacun</strong> pouvait le faire</p>
+
+<p>Et <strong>Personne</strong> ne doutait que <strong>Quelqu’un</strong> le ferait…</p>
+
+<p>En fin de compte, <strong>Tout le monde</strong> fit des reproches à <strong>Chacun</strong></p>
+
+<p>Parce que <strong>Personne</strong> n’avait fait ce que <strong>Quelqu’un</strong> aurait pu faire.</p>
+
+<p>MORALITÉ :</p>
+
+<p>Sans vouloir le reprocher à <strong>Tout le monde</strong>,</p>
+
+<p>Il serait bon que <strong>Chacun</strong></p>
+
+<p>Fasse ce qu’il doit sans nourrir l’espoir</p>
+
+<p>Que <strong>Quelqu’un</strong> le fera à sa place…</p>
+
+<p>Car l’expérience montre que</p>
+
+<p>Là où on attend <strong>Quelqu’un</strong>,</p>
+
+<p>Généralement on ne trouve <strong>Personne</strong></p>]]></content><author><name></name></author><category term="blog" /><category term="humour" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Vim, Neovim, HHKB et NCB</title><link href="http://localhost:4000/blog/2024/11/07/VimNeoVimHHKB.html" rel="alternate" type="text/html" title="Vim, Neovim, HHKB et NCB" /><published>2024-11-07T00:00:00+01:00</published><updated>2024-11-07T00:00:00+01:00</updated><id>http://localhost:4000/blog/2024/11/07/VimNeoVimHHKB</id><content type="html" xml:base="http://localhost:4000/blog/2024/11/07/VimNeoVimHHKB.html"><![CDATA[<p>Blablabliblablabla</p>
+
+<pre><code class="language-python3">for _ in range(10):
+    print("*")
+</code></pre>]]></content><author><name></name></author><category term="blog" /><category term="essai" /><category term="nvim" /><category term="vim" /><category term="hhkb" /><category term="ncb" /><summary type="html"><![CDATA[Blablabliblablabla]]></summary></entry></feed>

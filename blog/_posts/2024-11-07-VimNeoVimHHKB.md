@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Vim, Neovim, HHKB et NCB"
 date: 2024-11-07
 categories: [blog]

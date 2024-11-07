@@ -42,13 +42,14 @@ defaults:
       layout: default
 
 # Build settings
-theme: minima
+# theme: minimal-mistakes-jekyll
+# theme: minima
 # remote_theme: jekyll/minima
 
-# remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
-  # - jekyll-remote-theme
+  - jekyll-remote-theme
 
 minima:
   skin: dark
