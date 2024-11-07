@@ -1,5 +1,5 @@
 ---
-layout: single
+# layout: default
 title: À propos
 permalink: /a-propos/
 ---

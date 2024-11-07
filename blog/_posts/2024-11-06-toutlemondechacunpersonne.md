@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: "L'emploi du pronom indéfini"
 date: 2024-11-07
 categories: [blog]
@@ -10,7 +9,7 @@ tags: [humour]
 
 Il était une fois quatre individus que l'on appelait
 
-**Tout le monde** , **Quelqu'un** , **Chacun** et **Personne**.
+**Tout le monde**, **Quelqu'un**, **Chacun** et **Personne**.
 
 Il y avait un important travail à faire,
 

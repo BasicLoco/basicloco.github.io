@@ -30,26 +30,24 @@ url: "https://basicloco.github.io" # the base hostname & protocol for your site,
 # github_username: jekyll
 
 lang: fr
-data_dir: _data
+# data_dir: _data
 locale: fr
 
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      date_format: "%A %d %B %Y"
-      layout: default
+# defaults:
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       date_format: "%A %d %B %Y"
+# layout: default
 
 # Build settings
 # theme: minimal-mistakes-jekyll
-# theme: minima
-# remote_theme: jekyll/minima
+theme: minima
 
-remote_theme: pages-themes/midnight@v0.2.0
+# remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 minima:
   skin: dark

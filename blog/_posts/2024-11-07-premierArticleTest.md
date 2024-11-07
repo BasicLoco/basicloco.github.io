@@ -1,5 +1,5 @@
 ---
-layout: posts
+# layout: posts
 title: "Un article de test"
 date: 2024-11-07 11:47:-11
 categories: [blog, test]

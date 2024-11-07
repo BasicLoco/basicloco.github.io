@@ -1,15 +1,18 @@
 ---
-layout: home
+# layout: default
 title: "Accueil"
 ---
 
-<!-- Publié le : -->
-<!-- {% assign day_of_week = page.date | date: "%w" %} -->
-<!-- {% assign month_number = page.date | date: "%m" | minus: 1 %} -->
-<!-- {% assign day_of_month = page.date | date: "%d" %} -->
-<!-- {% assign year = page.date | date: "%Y" %} -->
-<!---->
-<!-- {{ site.data.locale_fr.days[day_of_week] }} {{ day_of_month }} {{ site.data.locale_fr.months[month_number] }} {{ year }} -->
+{% for post in site.posts %}
+{% assign day_index = post.date | date: "%w" | plus:0 | default: 0 %}
+{% assign month_index = post.date | date: "%-m" | minus: 1 | default:0 %}
+
+- [{{ post.title }}]({{ post.url }}) -
+  {{ site.data.locale_fr.days[day_index] }}
+  {{ post.date | date: "%d" }}
+  {{ site.data.locale_fr.months[month_index] }}
+  {{ post.date | date: "%Y" }}
+  {% endfor %}
 
 # Bienvenue sur ce qui n'est pas un site !
 
