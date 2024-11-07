@@ -1,2 +1,1 @@
-# Ceci n'est pas un blog
-
+# Ceci n'est pas un site
