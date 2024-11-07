@@ -29,7 +29,20 @@ url: "https://basicloco.github.io" # the base hostname & protocol for your site,
 # twitter_username: jekyllrb
 # github_username: jekyll
 
+lang: fr
+
+data_dir: _data
+
 locale: fr
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      # date_format: "%A %d %B %Y"
+      layout: default
+
 # Build settings
 theme: minima
 # remote_theme: pages-themes/midnight@v0.2.0
